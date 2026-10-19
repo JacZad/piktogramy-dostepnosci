@@ -2,8 +2,6 @@
 
 Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udogodnienia dostępnościowe: audiodeskrypcję, napisy, pętlę indukcyjną, tłumaczenie na PJM, miejsca wyciszenia i inne.
 
-> Repozytorium jest w trakcie przygotowywania.
-
 ## Piktogramy
 
 | Podgląd | Nazwa | Plik |
