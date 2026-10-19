@@ -33,8 +33,14 @@ Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udo
 
 Pliki znajdują się w folderze [`svg/`](svg/).
 
-## Licencja
+## Autorstwo i licencja
 
-[Creative Commons Uznanie autorstwa – Bez utworów zależnych 4.0 (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.pl). Pełny tekst: [LICENSE](LICENSE).
+**Autor piktogramów:** Tomasz Grabowski
+**Prawa autorskie:** Fundacja Kultury Bez Barier
+**Licencja:** [Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Pełny tekst licencji: [LICENSE](LICENSE) oraz <https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl>.
 
-Piktogramy można kopiować i rozpowszechniać w niezmienionej postaci, pod warunkiem podania autorstwa. Nie wolno rozpowszechniać ich zmodyfikowanych wersji.
+Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (jak wyżej), wskazania licencji i oznaczenia wprowadzonych zmian. Utwory zależne trzeba udostępniać na tej samej licencji. Przy publikacji na stronie internetowej należy podlinkować licencję lub wkleić pełny link do jej tekstu.
+
+### Zmiany względem oryginału
+
+W plikach SVG dodano element `<title>` oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
