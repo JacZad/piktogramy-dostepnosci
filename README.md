@@ -35,8 +35,8 @@ Pliki znajdują się w folderze [`svg/`](svg/). Po kliknięciu „Pobierz SVG”
 
 ## Autorstwo i licencja
 
-**Autor piktogramów:** Tomasz Grabowski
-**Prawa autorskie:** Fundacja Kultury Bez Barier
+**Autor piktogramów:** Tomasz Grabowski  
+**Prawa autorskie:** Fundacja Kultury Bez Barier  
 **Licencja:** [Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Pełny tekst licencji: [LICENSE](LICENSE) oraz <https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl>.
 
 Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (jak wyżej), wskazania licencji i oznaczenia wprowadzonych zmian. Utwory zależne trzeba udostępniać na tej samej licencji. Przy publikacji na stronie internetowej należy podlinkować licencję lub wkleić pełny link do jej tekstu.
