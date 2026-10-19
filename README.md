@@ -54,3 +54,7 @@ Jeśli zmieniasz piktogramy, dopisz, co zostało zmienione, i udostępnij wynik 
 W plikach SVG dodano deklarację XML z kodowaniem UTF-8, elementy `<title>` i `<metadata>` (autor, prawa autorskie, licencja) oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
 
 Podglądy PNG w folderze [`previews/`](previews/) powstały z plików SVG (biały margines i tło). Są utworami zależnymi i obowiązuje je ta sama licencja CC BY-SA 4.0.
+
+## Zgłaszanie błędów
+
+Błąd w piktogramie, literówkę w nazwie lub problem z plikiem SVG możesz zgłosić w zakładce [Issues](https://github.com/JacZad/piktogramy-dostepnosci/issues) tego repozytorium. Podaj nazwę piktogramu i opisz, co jest nie tak.
