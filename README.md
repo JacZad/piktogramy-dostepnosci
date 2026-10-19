@@ -36,7 +36,7 @@ Pliki znajdują się w folderze [`svg/`](svg/). Podglądy w tabeli (PNG z biały
 ## Autorstwo i licencja
 
 **Autor piktogramów:** Tomasz Grabowski  
-**Prawa autorskie:** Fundacja Kultury Bez Barier  
+**Prawa autorskie:** [Fundacja Kultury Bez Barier](https://kulturabezbarier.org/)  
 **Licencja:** [Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Pełny tekst licencji: [LICENSE](LICENSE) oraz <https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl>.
 
 Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (jak wyżej), wskazania licencji i oznaczenia wprowadzonych zmian. Utwory zależne trzeba udostępniać na tej samej licencji. Przy publikacji na stronie internetowej należy podlinkować licencję lub wkleić pełny link do jej tekstu.
@@ -45,7 +45,7 @@ Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (j
 
 Przykładowy tekst do skopiowania:
 
-> Piktogramy: Tomasz Grabowski, prawa autorskie: Fundacja Kultury Bez Barier, licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl).
+> Piktogramy: Tomasz Grabowski, prawa autorskie: [Fundacja Kultury Bez Barier](https://kulturabezbarier.org/), licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl).
 
 Jeśli zmieniasz piktogramy, dopisz, co zostało zmienione, i udostępnij wynik na tej samej licencji.
 
