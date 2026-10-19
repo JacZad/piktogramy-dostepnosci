@@ -4,6 +4,8 @@ Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udo
 
 ## Piktogramy
 
+**[Pobierz cały zestaw (ZIP)](https://github.com/JacZad/piktogramy-dostepnosci/releases/latest/download/piktogramy-dostepnosci-svg.zip)** — pliki SVG i licencja. Wszystkie wydania: [Releases](https://github.com/JacZad/piktogramy-dostepnosci/releases).
+
 | Podgląd | Nazwa | Plik |
 |---|---|---|
 | <img src="svg/Audiodeskrypcja.svg" width="48" alt=""> | Audiodeskrypcja | [Pobierz SVG](svg/Audiodeskrypcja.svg) |
@@ -29,7 +31,7 @@ Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udo
 | <img src="svg/T%C5%82umaczenie%20na%20j%C4%99zyk%20obcy.svg" width="48" alt=""> | Tłumaczenie na język obcy | [Pobierz SVG](svg/T%C5%82umaczenie%20na%20j%C4%99zyk%20obcy.svg) |
 | <img src="svg/T%C5%82umaczenie%20na%20PJM.svg" width="48" alt=""> | Tłumaczenie na PJM | [Pobierz SVG](svg/T%C5%82umaczenie%20na%20PJM.svg) |
 
-Pliki znajdują się w folderze [`svg/`](svg/). Po kliknięciu „Pobierz SVG” otworzy się podgląd pliku, a przycisk „Download raw file” zapisze go na dysku. Cały zestaw pobierzesz przyciskiem **Code → Download ZIP** na stronie repozytorium.
+Pliki znajdują się w folderze [`svg/`](svg/). Po kliknięciu „Pobierz SVG” otworzy się podgląd pliku, a przycisk „Download raw file” zapisze go na dysku. Cały zestaw pobierzesz jako ZIP z linku powyżej.
 
 ## Autorstwo i licencja
 
