@@ -1,0 +1,40 @@
+# Piktogramy dostępności
+
+Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udogodnienia dostępnościowe: audiodeskrypcję, napisy, pętlę indukcyjną, tłumaczenie na PJM, miejsca wyciszenia i inne.
+
+> Repozytorium jest w trakcie przygotowywania.
+
+## Piktogramy
+
+| Podgląd | Nazwa |
+|---|---|
+| <img src="svg/Audiodeskrypcja.svg" width="48" alt=""> | Audiodeskrypcja |
+| <img src="svg/Audioprzewodnik.svg" width="48" alt=""> | Audioprzewodnik |
+| <img src="svg/Ciche%20godziny.svg" width="48" alt=""> | Ciche godziny |
+| <img src="svg/Dost%C4%99pno%C5%9Bc%20dla%20os%C3%B3b%20w%20spektrum%20autyzmu.svg" width="48" alt=""> | Dostępnośc dla osób w spektrum autyzmu |
+| <img src="svg/Dost%C4%99pno%C5%9Bc%20dla%20os%C3%B3b%20z%20niep.%20ruchow%C4%85.svg" width="48" alt=""> | Dostępnośc dla osób z niep. ruchową |
+| <img src="svg/Dost%C4%99pno%C5%9B%C4%87%20dla%20os%C3%B3b%20w%20spektrum%20autyzmu.svg" width="48" alt=""> | Dostępność dla osób w spektrum autyzmu |
+| <img src="svg/Dost%C4%99pno%C5%9B%C4%87.svg" width="48" alt=""> | Dostępność |
+| <img src="svg/ETR.svg" width="48" alt=""> | ETR |
+| <img src="svg/Lektor%20polski.svg" width="48" alt=""> | Lektor polski |
+| <img src="svg/Materia%C5%82y%20dotykowe.svg" width="48" alt=""> | Materiały dotykowe |
+| <img src="svg/Miejsce%20wyciszenia.svg" width="48" alt=""> | Miejsce wyciszenia |
+| <img src="svg/Napisy%20angielskie.svg" width="48" alt=""> | Napisy angielskie |
+| <img src="svg/Napisy%20dla%20nies%C5%82ysz%C4%85cych.svg" width="48" alt=""> | Napisy dla niesłyszących |
+| <img src="svg/Napisy%20na%20%C5%BCywo.svg" width="48" alt=""> | Napisy na żywo |
+| <img src="svg/Napisy%20polskie.svg" width="48" alt=""> | Napisy polskie |
+| <img src="svg/P%C4%99tla%20indukcyjna.svg" width="48" alt=""> | Pętla indukcyjna |
+| <img src="svg/Prowadzenie%20w%20PJM.svg" width="48" alt=""> | Prowadzenie w PJM |
+| <img src="svg/Przedprzewodnik.svg" width="48" alt=""> | Przedprzewodnik |
+| <img src="svg/S%C5%82uchawki%20wyciszaj%C4%85ce.svg" width="48" alt=""> | Słuchawki wyciszające |
+| <img src="svg/System%20FM.svg" width="48" alt=""> | System FM |
+| <img src="svg/T%C5%82umaczenie%20na%20j%C4%99zyk%20obcy.svg" width="48" alt=""> | Tłumaczenie na język obcy |
+| <img src="svg/T%C5%82umaczenie%20na%20PJM.svg" width="48" alt=""> | Tłumaczenie na PJM |
+
+Pliki znajdują się w folderze [`svg/`](svg/).
+
+## Licencja
+
+[Creative Commons Uznanie autorstwa – Bez utworów zależnych 4.0 (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.pl). Pełny tekst: [LICENSE](LICENSE).
+
+Piktogramy można kopiować i rozpowszechniać w niezmienionej postaci, pod warunkiem podania autorstwa. Nie wolno rozpowszechniać ich zmodyfikowanych wersji.
