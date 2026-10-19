@@ -11,9 +11,9 @@ Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udo
 | <img src="svg/Audiodeskrypcja.svg" width="48" alt=""> | Audiodeskrypcja |
 | <img src="svg/Audioprzewodnik.svg" width="48" alt=""> | Audioprzewodnik |
 | <img src="svg/Ciche%20godziny.svg" width="48" alt=""> | Ciche godziny |
-| <img src="svg/Dost%C4%99pno%C5%9Bc%20dla%20os%C3%B3b%20w%20spektrum%20autyzmu.svg" width="48" alt=""> | Dostępnośc dla osób w spektrum autyzmu |
-| <img src="svg/Dost%C4%99pno%C5%9Bc%20dla%20os%C3%B3b%20z%20niep.%20ruchow%C4%85.svg" width="48" alt=""> | Dostępnośc dla osób z niep. ruchową |
 | <img src="svg/Dost%C4%99pno%C5%9B%C4%87%20dla%20os%C3%B3b%20w%20spektrum%20autyzmu.svg" width="48" alt=""> | Dostępność dla osób w spektrum autyzmu |
+| <img src="svg/Dost%C4%99pno%C5%9B%C4%87%20dla%20os%C3%B3b%20z%20niepe%C5%82nosprawno%C5%9Bci%C4%85%20intelektualn%C4%85.svg" width="48" alt=""> | Dostępność dla osób z niepełnosprawnością intelektualną |
+| <img src="svg/Dost%C4%99pno%C5%9B%C4%87%20dla%20os%C3%B3b%20z%20niepe%C5%82nosprawno%C5%9Bci%C4%85%20ruchow%C4%85.svg" width="48" alt=""> | Dostępność dla osób z niepełnosprawnością ruchową |
 | <img src="svg/Dost%C4%99pno%C5%9B%C4%87.svg" width="48" alt=""> | Dostępność |
 | <img src="svg/ETR.svg" width="48" alt=""> | ETR |
 | <img src="svg/Lektor%20polski.svg" width="48" alt=""> | Lektor polski |
