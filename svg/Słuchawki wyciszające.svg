@@ -1,5 +1,16 @@
 <svg id="sluchawki-wyciszajace" data-name="Warstwa 1" role="img" aria-labelledby="sluchawki-wyciszajace-title" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
   <title id="sluchawki-wyciszajace-title">Słuchawki wyciszające</title>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Słuchawki wyciszające</dc:title>
+        <dc:creator>Tomasz Grabowski</dc:creator>
+        <dc:rights>Fundacja Kultury Bez Barier</dc:rights>
+        <dc:format>image/svg+xml</dc:format>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs>
     <style>
       .sluchawki-wyciszajace-cls-1 {

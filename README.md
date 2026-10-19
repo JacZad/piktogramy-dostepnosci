@@ -43,4 +43,4 @@ Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (j
 
 ### Zmiany względem oryginału
 
-W plikach SVG dodano element `<title>` oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
+W plikach SVG dodano elementy `<title>` i `<metadata>` (autor, prawa autorskie, licencja) oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
