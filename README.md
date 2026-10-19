@@ -41,6 +41,16 @@ Pliki znajdują się w folderze [`svg/`](svg/). Podglądy w tabeli (PNG z biały
 
 Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (jak wyżej), wskazania licencji i oznaczenia wprowadzonych zmian. Utwory zależne trzeba udostępniać na tej samej licencji. Przy publikacji na stronie internetowej należy podlinkować licencję lub wkleić pełny link do jej tekstu.
 
+### Jak oznaczyć autorstwo
+
+Przykładowy tekst do skopiowania:
+
+> Piktogramy: Tomasz Grabowski, prawa autorskie: Fundacja Kultury Bez Barier, licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl).
+
+Jeśli zmieniasz piktogramy, dopisz, co zostało zmienione, i udostępnij wynik na tej samej licencji.
+
 ### Zmiany względem oryginału
 
-W plikach SVG dodano elementy `<title>` i `<metadata>` (autor, prawa autorskie, licencja) oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
+W plikach SVG dodano deklarację XML z kodowaniem UTF-8, elementy `<title>` i `<metadata>` (autor, prawa autorskie, licencja) oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
+
+Podglądy PNG w folderze [`previews/`](previews/) powstały z plików SVG (biały margines i tło). Są utworami zależnymi i obowiązuje je ta sama licencja CC BY-SA 4.0.
