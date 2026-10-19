@@ -51,7 +51,7 @@ Jeśli zmieniasz piktogramy, dopisz, co zostało zmienione, i udostępnij wynik 
 
 ### Zmiany względem oryginału
 
-W plikach SVG dodano deklarację XML z kodowaniem UTF-8, elementy `<title>` i `<metadata>` (autor, prawa autorskie, licencja) oraz atrybuty `role` i `aria-labelledby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
+W plikach SVG dodano deklarację XML z kodowaniem UTF-8, elementy `<title>` (nazwa), `<desc>` (opis graficzny) i `<metadata>` (autor, prawa autorskie, licencja, dane do oznaczania autorstwa) oraz atrybuty `xml:lang`, `role`, `aria-labelledby` i `aria-describedby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
 
 Podglądy PNG w folderze [`previews/`](previews/) powstały z plików SVG (biały margines i tło). Są utworami zależnymi i obowiązuje je ta sama licencja CC BY-SA 4.0.
 

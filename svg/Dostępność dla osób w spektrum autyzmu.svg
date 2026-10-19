@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="dostepnosc-dla-osob-w-spektrum-autyzmu" data-name="Warstwa 1" role="img" aria-labelledby="dostepnosc-dla-osob-w-spektrum-autyzmu-title" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+<svg id="dostepnosc-dla-osob-w-spektrum-autyzmu" data-name="Warstwa 1" xml:lang="pl" role="img" aria-labelledby="dostepnosc-dla-osob-w-spektrum-autyzmu-title" aria-describedby="dostepnosc-dla-osob-w-spektrum-autyzmu-desc" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
   <title id="dostepnosc-dla-osob-w-spektrum-autyzmu-title">Dostępność dla osób w spektrum autyzmu</title>
+  <desc id="dostepnosc-dla-osob-w-spektrum-autyzmu-desc">Głowa w profilu, zwrócona w prawo, z literą A w środku.</desc>
   <metadata>
     <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
       <cc:Work rdf:about="">
@@ -9,6 +10,8 @@
         <dc:rights>Fundacja Kultury Bez Barier</dc:rights>
         <dc:format>image/svg+xml</dc:format>
         <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>Fundacja Kultury Bez Barier</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://kulturabezbarier.org/"/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
