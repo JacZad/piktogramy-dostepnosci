@@ -4,3 +4,4 @@ _extract/
 .DS_Store
 Thumbs.db
 !piktogramy-dostepnosci-svg.zip
+.playwright-mcp/
