@@ -1,6 +1,12 @@
+<a href="https://kulturabezbarier.org/"><img src="assets/fkbb-logo.png" alt="Fundacja Kultury Bez Barier" width="330"></a>
+
 # Piktogramy dostępności
 
 Zestaw 22 piktogramów w formacie SVG (48×48, jednokolorowe) oznaczających udogodnienia dostępnościowe: audiodeskrypcję, napisy, pętlę indukcyjną, tłumaczenie na PJM, miejsca wyciszenia i inne.
+
+**Autor piktogramów:** Tomasz Grabowski  
+**Prawa autorskie:** [Fundacja Kultury Bez Barier](https://kulturabezbarier.org/)  
+**Licencja:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl) (zasady używania w sekcji [Autorstwo i licencja](#autorstwo-i-licencja))
 
 ## Piktogramy
 
@@ -35,8 +41,6 @@ Pliki znajdują się w folderze [`svg/`](svg/). Podglądy w tabeli (PNG z biały
 
 ## Autorstwo i licencja
 
-**Autor piktogramów:** Tomasz Grabowski  
-**Prawa autorskie:** [Fundacja Kultury Bez Barier](https://kulturabezbarier.org/)  
 **Licencja:** [Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Pełny tekst licencji: [LICENSE](LICENSE) oraz <https://creativecommons.org/licenses/by-sa/4.0/legalcode.pl>.
 
 Piktogramy można udostępniać i adaptować, pod warunkiem podania autorstwa (jak wyżej), wskazania licencji i oznaczenia wprowadzonych zmian. Utwory zależne trzeba udostępniać na tej samej licencji. Przy publikacji na stronie internetowej należy podlinkować licencję lub wkleić pełny link do jej tekstu.
