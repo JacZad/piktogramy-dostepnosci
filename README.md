@@ -53,7 +53,10 @@ Przykładowy tekst do skopiowania:
 
 Jeśli zmieniasz piktogramy, dopisz, co zostało zmienione, i udostępnij wynik na tej samej licencji.
 
-### Logotyp FundacjiLogotyp Fundacji Kultury Bez Barier, widoczny na początku tego README (`assets/fkbb-logo.png`), nie jest objęty licencją CC BY-SA 4.0. Wszelkie prawa do logotypu zastrzega Fundacja. Licencja dotyczy wyłącznie piktogramów i ich podglądów.
+### Logotyp Fundacji
+
+Logotyp Fundacji Kultury Bez Barier, widoczny na początku tego README (`assets/fkbb-logo.png`), nie jest objęty licencją CC BY-SA 4.0. Wszelkie prawa do logotypu zastrzega Fundacja. Licencja dotyczy wyłącznie piktogramów i ich podglądów.
+
 ### Zmiany względem oryginału
 
 W plikach SVG dodano deklarację XML z kodowaniem UTF-8, elementy `<title>` (nazwa), `<desc>` (opis graficzny) i `<metadata>` (autor, prawa autorskie, licencja, dane do oznaczania autorstwa) oraz atrybuty `xml:lang`, `role`, `aria-labelledby` i `aria-describedby`, a identyfikatory `id` i nazwy klas CSS zastąpiono unikalnymi. Poprawiono też nazwy plików. Kształty piktogramów nie zostały zmienione.
